@@ -1,0 +1,9 @@
+﻿  main.cxx
+d:\labs\pc\pclab3\bgi\main.cxx(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\labs\pc\pclab3\bgi\main.cxx(85): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\labs\pc\pclab3\bgi\main.cxx(86): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\labs\pc\pclab3\bgi\main.cxx(95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\labs\pc\pclab3\bgi\main.cxx(115): warning C4996: 'gcvt': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _gcvt. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1309): note: see declaration of 'gcvt'
+  bgi.vcxproj -> D:\Labs\PC\PCLab3\bgi\Debug\bgi.exe
+  bgi.vcxproj -> D:\Labs\PC\PCLab3\bgi\Debug\bgi.pdb (Full PDB)

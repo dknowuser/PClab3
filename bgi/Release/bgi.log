@@ -1,0 +1,38 @@
+﻿  bgiout.cxx
+  dibutil.cxx
+  drawing.cxx
+drawing.cxx(819): warning C4101: 'tries': unreferenced local variable
+drawing.cxx(859): warning C4101: 'answer': unreferenced local variable
+drawing.cxx(1110): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  file.cxx
+  misc.cxx
+misc.cxx(595): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+misc.cxx(596): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+misc.cxx(597): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+misc.cxx(598): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+misc.cxx(599): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+  mouse.cxx
+  palette.cxx
+  main.cxx
+main.cxx(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cxx(85): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cxx(86): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cxx(95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cxx(115): warning C4996: 'gcvt': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _gcvt. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1309): note: see declaration of 'gcvt'
+  text.cxx
+text.cxx(348): warning C4018: '<': signed/unsigned mismatch
+  winbgi.cxx
+winbgi.cxx(81): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+winbgi.cxx(134): warning C4101: 'actual_color': unreferenced local variable
+winbgi.cxx(133): warning C4101: 'bgi_color': unreferenced local variable
+winbgi.cxx(494): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  winthread.cxx
+winthread.cxx(320): warning C4101: 'i': unreferenced local variable
+  Generating code
+  All 496 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  bgi.vcxproj -> D:\Labs\PC\PCLab3\bgi\Release\bgi.exe
+  bgi.vcxproj -> D:\Labs\PC\PCLab3\bgi\Release\bgi.pdb (Full PDB)
